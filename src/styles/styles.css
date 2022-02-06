@@ -1,0 +1,9 @@
+.hidden {
+  /* display: none; */
+  visibility: hidden;
+}
+
+.edit:hover {
+  border: solid 1px black;
+  cursor: pointer;
+}
